@@ -17,9 +17,10 @@
     - Revolución científica: Nacimiento de la física moderna con Galileo, Kepler, Newto, Copernico
     - Racionalismo o empirismo: La teoría del conocimiento, la noseología se ve más trabajada. Y el estudio de la razón humana
 * Filosofía contemporánea 18-19 <sup>th</sup>
+    - Ilustración: la razón como guía del mundo
+    - Las luchas obreras, rebeliones obreras y el nacimiento la consolidación de la burguesía, nace el comunismo *Karl Max*, el socialismo y el anarquismo
+    - Exsistencialismo, a finales de la primera guerra mundial hasta inicios de 2000 (generación del 97 en España)
 ---
-continúa, no más notas disponibles aportar al id #000001, mencionar como issue
-***
 # Ramas de la filosofía o especialidades
 ## metafísica, teoría de la realidad o del ser, ortología
 * Qué es la realidad, es la realidad cotidiana la misma que la de los sueños?
@@ -59,4 +60,36 @@ Estudiando, observando y deduciendo, conclutó en estos otros razonamientos, tan
     * Los triángulos que tienen dos ángulos y un lado igual, son iguales.
 
 Sin embargo, ese cuestionamiento y reflexión no las hace desde el misticismo o la excentricidad, sino desde la mente de un hombre que busca respuestas prácticas. Tales cuestiona la tradición teogónica, cosmogónica y olímpica de la época, provocando un gran salto de la teogonía -de carácter mitológico-, a la teología -de naturaleza racional- sin negar la divinidad, sino poniéndola en el debate crítico. Es en este momento cuando puede hablarse del nacimiento de la teología.
- 
+---
+# La doctrina metafísica
+La metafísica es la rama de la filosofía que estudia la realidad, el ser, el origen del Arjé (principio), el fundamento de donde todo procede. Busca encontrar un orden. a continuación se presentan las teorías de los filósofos de la Antiguedad, Grecia.
+* Monistas: Defienden que el origen de todos las entidades es un único principio natural, el fuego, el agua o lo desconocido.
+* Pluralistas: Defienden que el origen de todas las entidades se debe a múltiples sustancias, fuego, agua, tierra, aire -*Aristóteles*A
+## Aristóteles
+Aristóteles define a todos los seres naturales , todo lo real, como realidades individuales
+* El *individuo* : todos los seres individuales son sustancias, que incluye sus accidentes y esencia, este es el concepto de ser de Aristóteles
+* Una sustancia tiene que estar separada de otras sustancias, es una realidad individual que existe por sí misma.
+* Los accidentes son características no esenciales de la sustancia, los atributos de ella.
+* La esencia son las características que distinguen una entidad de otra.
+---
+* Comparación de las formas de pensar de Heraclito, de Parnímedes y de Aristóteles
+    - Para Heraclito, todas las sustancias fluyen incesantemente, y los cambios ocurren a través de contrarios, por lo que su representación es el fuego, que es cambiante y cambiador de las sustancias
+    - Para Parménides, el ser es y el no ser no es, significa que todo es constante, nada se mueve. Si yo ahora no estoy ahí, por ningún medio puedo aparecer ahí de genreración espontánea. El movimiento es una ilusión ante nuestros ojos.
+    - Para Aristóteles, el ser es análogo, solo cambia la sustnancia si se produce un cambio sustnacial. Existe el ser y el no ser, lo que no es puede llegar a serlo (potencia, potencial), por lo que es una mezcla de los dos anteriores. Todo cambia, pero no constantemente, lo que se mantiene es ela esencia, los cambios, si no son sustanciales, se manifiestan en la forma de atributos.
+---
+* El ser: el ser no es unívocuo (es dinámico, tú, yo y él somos, pero somos diferentes), el ser tampoco es equívocuo (Nosotros no somos cualquier cosa y no puede tener cualquier significado)
+## Cristianismo, _respecto a la metafísica_
+El cristianismo aporta la novedad de dios como único y verdadero, es el creador y es el padre, dios creó todo. 
+* Dios: El universo de los griegos es eterno, epro en este caso no, originó cuando dios lo creó. El dios nos castiga, nos cuida, nos protege, _nada sucede sin que él lo quiera_, él impone el orden. Esto se conoce como ley natural.
+    * Ley natural: Todos los seres creados tenemos una ley natural, y por supuesto en el caso de los seres humanos, los humanos tenemos por tanto, razón, lógica, y la libertad de decidir nuestro camino. tenemos la conciencia, la capacidad de conocer el bien y el mal.
+    * Creador: Dios creó a todos los seres vivos y naturales, el otorgó la esencia a los seres. él nos da la existencia pero también puede quitárnosla
+    * Contingencia: podemos existir y no, estmaos sometidos a desarrollo, a enfermedad y muerte
+* Dios es causa de sí mismo, es el ser necesario, eterno
+* La esencia sin existencia es ideal, la ecistencia de la esencia es real, es contingente (sujeto a cambios)
+## Documental sobre la percepción
+el cerebro tiene una atención selectiva, que desarrolló para demostrar o refutar sus propias predicciones del futuro, el mundo que percibimos es por lo tanto contruido y no realista.
+
+
+
+
+
