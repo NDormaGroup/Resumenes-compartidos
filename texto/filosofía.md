@@ -13,6 +13,10 @@
     - edad media
     - teocéntrica
     - Agustín de Hipona, Tomás de Aquino, Occam
+* Filosofía moderna, en el renacimiento
+    - Revolución científica: Nacimiento de la física moderna con Galileo, Kepler, Newto, Copernico
+    - Racionalismo o empirismo: La teoría del conocimiento, la noseología se ve más trabajada. Y el estudio de la razón humana
+* Filosofía contemporánea 18-19 <sup>th</sup>
 ---
 continúa, no más notas disponibles aportar al id #000001, mencionar como issue
 ***
