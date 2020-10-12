@@ -58,8 +58,7 @@ Estudiando, observando y deduciendo, conclutó en estos otros razonamientos, tan
     * Los ángulos entre dos líneas rectas que se cortan, son iguales.
     * Todo ángulo inscrito dentro de una semicircunferencia siempre será un ángulo recto.
     * Los triángulos que tienen dos ángulos y un lado igual, son iguales.
-
-Sin embargo, ese cuestionamiento y reflexión no las hace desde el misticismo o la excentricidad, sino desde la mente de un hombre que busca respuestas prácticas. Tales cuestiona la tradición teogónica, cosmogónica y olímpica de la época, provocando un gran salto de la teogonía -de carácter mitológico-, a la teología -de naturaleza racional- sin negar la divinidad, sino poniéndola en el debate crítico. Es en este momento cuando puede hablarse del nacimiento de la teología.
+- Sin embargo, ese cuestionamiento y reflexión no las hace desde el misticismo o la excentricidad, sino desde la mente de un hombre que busca respuestas prácticas. Tales cuestiona la tradición teogónica, cosmogónica y olímpica de la época, provocando un gran salto de la teogonía -de carácter mitológico-, a la teología -de naturaleza racional- sin negar la divinidad, sino poniéndola en el debate crítico. Es en este momento cuando puede hablarse del nacimiento de la teología.
 ---
 # La doctrina metafísica
 La metafísica es la rama de la filosofía que estudia la realidad, el ser, el origen del Arjé (principio), el fundamento de donde todo procede. Busca encontrar un orden. a continuación se presentan las teorías de los filósofos de la Antiguedad, Grecia.
