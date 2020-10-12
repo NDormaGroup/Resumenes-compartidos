@@ -1,3 +1,11 @@
+# Presentación a la filosofía
+La filosofía es el *amor a la sabiduría*, nació en el siglo 7 A.C con Tales de Mileto, filósofo y matemático. Pero fue Aristóteles quién dividió las materias en filosofía, matemáticas y física (antes es un todo en uno); la filosofía plnatea preguntas que no hay necesidad de responderlas.
+* Carácterísticas del saber filosófico
+    1. Búsqueda de la verdad, incitado por la curiosidad
+    2. Conocimiento racional, lógico, argumentativo, conceptual.
+    3. Saber crítico; no es absoluto, cualquiera puede estar de acuerdo o no con la filosofía
+    4. Saber universal; la vocación por el todo, preguntarse todo vamos...
+    5. Saber transformador de la realidad; existencialismo
 # Etapas de la filosofía
 * Antigua
     - Las filosofías romanas y griegas
