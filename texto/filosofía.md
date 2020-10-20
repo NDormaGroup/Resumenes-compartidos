@@ -30,17 +30,17 @@ La filosofía es el *amor a la sabiduría*, nació en el siglo 7 A.C con Tales d
     - Exsistencialismo, a finales de la primera guerra mundial hasta inicios de 2000 (generación del 97 en España)
 ---
 # Ramas de la filosofía o especialidades
-## metafísica, teoría de la realidad o del ser, ortología
+ metafísica, teoría de la realidad o del ser, ortología
 * Qué es la realidad, es la realidad cotidiana la misma que la de los sueños?
-## noseología, la teoría del conocimiento
+ noseología, la teoría del conocimiento
 * refiere al conocimiento, cómo es posible que podamos pensar o racionar. La percepción de la realidad individual
-## la ética - filosofía práctica
+ la ética - filosofía práctica
 * teoría de la conciencia del bien y el mal, entre el estímulo y la acción tenemos la capacidad de elegir, allí reside nuestra mayor libertad
-## teoría política - filosofía práctica
+ teoría política - filosofía práctica
 * teoría de la justicia, del estado justo, de imposición de normas
-## la estética - filosofía política
+ la estética - filosofía política
 * teoría de lo bello y lo que se conoce y percibe como bello
-## antropología
+ antropología
 * la teoría del ser humano en sociedad. Qué somos, un alma, un cuerpo, un kebab de alma y cuerpo?
 
 # Filósofo de elección Tales de Mileto
@@ -96,6 +96,19 @@ El cristianismo aporta la novedad de dios como único y verdadero, es el creador
 ## Documental sobre la percepción
 el cerebro tiene una atención selectiva, que desarrolló para demostrar o refutar sus propias predicciones del futuro, el mundo que percibimos es por lo tanto contruido y no realista.
 
+# Filosofía de postguerra
+Sumidos en el pesimismo, cuestionan el sentido de la vida humana (existencialismo), las acciones humanas (Nihilismo) y la naturaleza humana (Irracionalismo)
+## Irracionalismo
+El mundo que nos rodea es irracional, y los seres humanos somos la mayoría de veces también. El ser humano ya no es visto como un ente racional sino todo lo contrario. En el contexto de la postguerra mundial
+Dios ha muerto, la idea de que dios nos ayuda es absurda y se desecha, es innecesario. Karl Marx dice que la religión oprime al pueblo.
+## Nihilismo
+Corriente de pensamiento que proclama que los seres humanos al desmoralizarse todo da igual. Si no hay moral no hay nada
+* La idea de que todo da igual, de la pérdida de los morales es decir de lso fundamentos de la sociendad. Si no hay moral, ni lo bueno es bueno ni lo malo es malo, todo carece de sentido alguno
+* El precursor de esto son las dos guerras mundiales, y las atrocidades de ambas.
+## El existencialismo
+Corriente del pensamiento del siglo 20 que cuestiona la vida humana, su valor, su rumbo o su sentido.
+* Satre, el ser humano no tiene esencia, nace siendo nada, es proyecto de uno mismo y de su vida. el ser humano no tiene naturaleza tiene historia. Estamos condenados a ser libre, la angustia de tener que elegir
+* Somos seres para la muerte
 
 
 
