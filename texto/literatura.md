@@ -15,7 +15,7 @@
 De tradición oral, los difundían juglares por el país, algunos cantares épicos incluyen La Odisea o el Poema Al Mio Cid.
 * Estructuras reconocibles: 
   a. uso de referencias al público, uso de un lenguaje muy vívido, muy dinámico y la inclusión de mucho diálogo
-*el poema al mio cid: en el manuscrito del mio cid se han perdido algunos versos
+* el poema al mio cid: en el manuscrito del mio cid se han perdido algunos versos
   El cid fue desterrado por el rey (de León), abandona Burgos, gana batallas para pedir el perdón del cid, finalmente perdonado al conquistar valencia, las hijas del cid se casan con los infantes de carrión
   Los hombres del cid se burlan de los infantes de carrión por un encuetnro con un león, los infantes deciden marcharse y en un claro de un bosque le pegan una paliza a las hijas del cid y las dejan abandonadas, pero el cid que presentía que algo malo iba a pasasr mandó a alguien a seguirles el paso, el cid pide un juicio contra los infantes donde son condenados a muerte y las hijas del cid se casan con hijos de reyes
   * Temas del cid: Pérdida y recuperación del honor, respeto hacia la figura del rey, es decir a la jerarquía, es curioso que el CId sí respeta al Rey mientras que el autor no (conflicto castilla contra león)
