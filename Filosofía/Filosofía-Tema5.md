@@ -1,5 +1,6 @@
 # Tema 5
 ## Introducción a la epistemología
+> La epistemología es la rama de la filosofía que se encarga de investigar los métodos para reconocer la verdad
 * Facultades cognoscitivas : Razón y Sentidos
 * Funciones: Métodos que garantizan la obtención de un conocimiento riguroso y fiable
 * Verdad: Definición y criterios
