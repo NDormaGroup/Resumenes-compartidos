@@ -26,9 +26,10 @@
 ## Posiciones filosóficas sobre la razón y los sentidos
 * Racionalismo: Ünico conocimiento aceptable es el proveniente de la razón
     * Los desajustes entre la realidad y la información hacen insostenible las teorías basadas en sentidos.
-    * Contruido sobre bases puramente racionales
+    * Contruido sobre bases puramente racionales conocidos como conceptos e ideas inatas, ver principio de correspondencia.
 * Empirismo: Ünico sentimiento válido proviene de los sentidos
     * No existen conocimientos que no procedan de la experiencia, por lo tanto, esos son imaginarios
+    * La razón se sitúa en segundo término
 * Criticismo: No hay conocimiento que no se base en la experiencia pero también existen conceptos e intuiciones que son esenciales al conocimiento
     * Empiezan con experiencia, pero luego no tienen porqué depender de ella
     * Solo proporcionan conocimeinto cuando se aplican a información sensible
@@ -41,7 +42,7 @@
 4. Duda: La duda tiene un objeto sobre el que se duda, no afirma nada y tiene una posibilidad de convertirse en conocimiento
 5. Ignorancia: Carencia total de conocimiento en relación a un asunto, puede llegar a desconocer la existencia del mismo. Carece incluso de objeto.
 
-## Conocimiento teórico y conocimietno práctico
+## Conocimiento teórico y conocimiento práctico
 > El fin del conocimiento teorico es comprender la realidad, mientras que el find el conocimietno práctico persigue orientarnos apra la acción.
 * Conocimiento práctico: Objetivo y persigue la verdad; emplea la razón, los sentidos la imaginación y la memoria. No tiene utilidad real, sino que es contemplativa y releva esa función a otros campos.
 * Conocimiento práctico: Guiar nuestra conducta, tanto en lo moral (bondad) como en la producciíon técnica (beneficio) 
