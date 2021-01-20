@@ -53,6 +53,6 @@ ofrecen lógica desde el punto de vista del emisor
   * terminativas: interrupción de la acción: llevo realizados abdominadas desde noviembre
 > todos los posibles son:
 > (modales) Obligación, posibilidad de la acción, capacidad de realizar la acción. -- Tiene y Puede
-> (aspectuales) Ingresivas, incoactivas, egresivas o terminativas, durativas, habituales, reiterativas. 
+> \n (aspectuales) Ingresivas, incoactivas, egresivas o terminativas, durativas, habituales, reiterativas. 
 * de los de arriba: IR (va), Empiezo,      acaba,                   sigo,       volvió,     está
 # usos del se
