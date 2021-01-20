@@ -8,7 +8,7 @@ epíteto - uso poético
 diferencia de otro grupo de sustantivo
 # sintaxis
 link a los archivos -
-* simple
+* simple : https://teams.microsoft.com/l/file/8a03b031-f1bb-47a9-83d8-e06a4226e775?tenantId=3b04da90-164b-41d4-aa55-de7c043bfaf9&fileType=pdf&objectUrl=https%3A%2F%2Fieslaestrellamadrid.sharepoint.com%2Fsites%2F1BACHILLERATOBCIENCIAS-LenguayLiteratura1B%2FShared%20Documents%2FLengua%20y%20Literatura%201%C2%BA%20B%2FOracionesSimplesFunciones.pdf&baseUrl=https%3A%2F%2Fieslaestrellamadrid.sharepoint.com%2Fsites%2F1BACHILLERATOBCIENCIAS-LenguayLiteratura1B&serviceName=teams&threadId=19:6140abc0531b4a9db3e003251e130cac@thread.tacv2&messageId=1610629911304&groupId=c5f1d796-4582-4ca9-8d6b-e28cf3d6c4c4
 * compuestos
 # valores de formas verbales
 * Presente
