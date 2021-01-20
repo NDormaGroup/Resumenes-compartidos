@@ -1,6 +1,15 @@
 # uso de determinantes
 # adjetivos y sus tipos
+* calificativos
+especificativo - el normal
+explicativo - entre comas, recalca algo que ya se sabe
+epíteto - uso poético
+* relacional
+diferencia de otro grupo de sustantivo
 # sintaxis
+link a los archivos -
+* simple
+* compuestos
 # valores de formas verbales
 * Presente
 el presente se pued utilizar en los tres tiempos verbales a diferencia de los otros dos
@@ -56,3 +65,12 @@ ofrecen lógica desde el punto de vista del emisor
 > \n (aspectuales) Ingresivas, incoactivas, egresivas o terminativas, durativas, habituales, reiterativas. 
 * de los de arriba: IR (va), Empiezo,      acaba,                   sigo,       volvió,     está
 # usos del se
+* Valor como pronombre
+ * indicativo de acción reflexiva (en tercera persona)
+ * indicativo de acción recíproca (en tercera persona)
+ * se sustituye a le/les por ya haber lo,la,los,las;
+* Valor sintáctico
+ * Marca de pasiva refleja, ver concordancia sujeto - predicado (si verbo en plural)
+ * Marca de impersonal, si falla la anterior
+ * Dativo ético, da émfasis
+ 
