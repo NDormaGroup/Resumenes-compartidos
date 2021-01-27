@@ -82,15 +82,15 @@ Como se puede observar, todo se basa en la capacidad de contruir e interpretar l
 * La verdad como conocimiento se opone a la falsedad y a los juicios y proposiciones.
 > En esta unidad solo se estudia el juicio
 * Criterios para la verdad (si se cumplen son verdaderos)
-    a. Autoridad: Sostenido por ciertas personas o instituciones consideradas fidedignas o infalibles, al ser dotados de conocimiento superior o privilegiado
-    b. Concenso: Sostenible por cualquier individuo capaz de razonar al estar bien informado.
-    c. Utilidad: Desmostrado por predecir con éxito o ser beneficioso o útil al ponerse en práctica.
-    d. Evidencia empírica: Corroborado por datos obtenidos a partir de experiencias sensibles acumuladas
-    e. Evidencia racional: Sostenido por la razón al ser básicamente irrefutable.
-    f. Coherencia: Aceptado si no entra en conflicto con otras verdades previamente aceptadas
+    1. Autoridad: Sostenido por ciertas personas o instituciones consideradas fidedignas o infalibles, al ser dotados de conocimiento superior o privilegiado
+    2. Concenso: Sostenible por cualquier individuo capaz de razonar al estar bien informado.
+    3. Utilidad: Desmostrado por predecir con éxito o ser beneficioso o útil al ponerse en práctica.
+    4. Evidencia empírica: Corroborado por datos obtenidos a partir de experiencias sensibles acumuladas
+    5. Evidencia racional: Sostenido por la razón al ser básicamente irrefutable.
+    6. Coherencia: Aceptado si no entra en conflicto con otras verdades previamente aceptadas
 ---
 * Concepciones de la verdad
-    * La verdad como correspondencia: La verdad es la relación que existe entre la realidad y nuestro pensamiento (personificado por el lenguaje). Es la verdad basada en evidencias. Se corrobora expresando la verdad al margen del lenguaje y comparando el enunciado.
+    * La verdad como correspondencia: La evidencia es un producto de la abstración de la realidad mediante el lenguaje razonada por el ser humano. Luego un enunciado es verdadero cuando existe una adecuación entre lo que expresa y la realidad a la que se refiere
     * La verdad como coherencia: La verdad se encuentra en el sistema, un enunciado verdadesro no puede coexitir con su contrario, por lo que todo enunciado ha de ser integrado en las verdades ya aceptadas. Muy útil en ciencias formales (matemáticas), no tanto en ciencias empíricas (ingeniería)
     * La verdad como éxito: La verdad permite actuar con éxito. Se tiene en cuenta las consecuencias prácticas.
 
